@@ -6,7 +6,7 @@
     "Topography",
     "OER"
   ],
-  "description": "GGOER（試験公開版）",
+  "description": "GISでみる地形オープン教材（試験公開版）",
   "devDependencies": {
     "gitbook-cli": "^2.3.0",
     "http-server": "^0.9.0",
@@ -25,10 +25,10 @@
   },
   "author": "h.yamauchi",
   "bugs": {
-    "url": "https://github.com/gis-oer/gis-oer/issues"
+    "url": "https://github.com/gg-oer/materials/issues"
   },
   "license": "CC-BY-SA-4.0",
-  "homepage": "https://github.com/gis-oer/gis-oer#readme",
+  "homepage": "https://github.com/gg-oer/materials#readme",
   "dependencies": {
     "gitbook-plugin-collapsible-menu": "^1.0.3",
     "gitbook-plugin-creativecommons": "^1.0.2",
